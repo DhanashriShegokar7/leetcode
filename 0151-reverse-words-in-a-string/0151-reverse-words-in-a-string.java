@@ -1,16 +1,33 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split(" ");
-        String result = "";
-        for(int i = words.length-1; i >= 0; i--) {
-            if(words[i] != "") {
-                if(result== "") {
-                    result = words[i];
-                } else {
-                    result += " " + words[i];
-                }
+
+        StringBuilder ans = new StringBuilder();
+        int i = s.length() - 1;
+
+        while(i >= 0) {
+
+            // skip spaces
+            while(i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
+
+            if(i < 0) break;
+
+            int j = i;
+
+            // find word
+            while(i >= 0 && s.charAt(i) != ' ') {
+                i--;
+            }
+
+            // append word
+            ans.append(s.substring(i + 1, j + 1));
+
+            // add space if more words exist
+            ans.append(" ");
         }
-        return result;
+
+        // remove last extra space
+        return ans.toString().trim();
     }
 }
