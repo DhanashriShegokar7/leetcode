@@ -5,8 +5,15 @@ class Solution {
             return false;
         }
 
-        String doubled = s + s;
+        for (int i = 0; i < s.length(); i++) {
 
-        return doubled.contains(goal);
+            if (s.equals(goal)) {
+                return true;
+            }
+
+            s = s.substring(1) + s.charAt(0);
+        }
+
+        return false;
     }
 }
