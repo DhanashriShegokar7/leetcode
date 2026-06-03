@@ -5,15 +5,8 @@ class Solution {
             return false;
         }
 
-        for (int i = 0; i < s.length(); i++) {
+        String doubled = s + s;
 
-            if (s.equals(goal)) {
-                return true;
-            }
-
-            s = s.substring(1) + s.charAt(0);
-        }
-
-        return false;
+        return doubled.contains(goal);
     }
 }
