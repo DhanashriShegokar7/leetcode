@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DhanashriShegokar7/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhanashriShegokar7/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DhanashriShegokar7/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DhanashriShegokar7/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/DhanashriShegokar7/leetcode/tree/master/0541-reverse-string-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhanashriShegokar7/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/DhanashriShegokar7/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
