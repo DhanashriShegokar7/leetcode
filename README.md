@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DhanashriShegokar7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DhanashriShegokar7/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DhanashriShegokar7/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/DhanashriShegokar7/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DhanashriShegokar7/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/DhanashriShegokar7/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/DhanashriShegokar7/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/DhanashriShegokar7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DhanashriShegokar7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/DhanashriShegokar7/leetcode/tree/master/0709-to-lower-case) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DhanashriShegokar7/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/DhanashriShegokar7/leetcode/tree/master/0415-add-strings) |
 | [3813-vowel-consonant-score](https://github.com/DhanashriShegokar7/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Trie
 |  |
