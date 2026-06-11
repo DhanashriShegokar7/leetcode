@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DhanashriShegokar7/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/DhanashriShegokar7/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/DhanashriShegokar7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DhanashriShegokar7/leetcode/tree/master/0342-power-of-four) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DhanashriShegokar7/leetcode/tree/master/0258-add-digits) |
 | [3813-vowel-consonant-score](https://github.com/DhanashriShegokar7/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Trie
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/DhanashriShegokar7/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DhanashriShegokar7/leetcode/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DhanashriShegokar7/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
