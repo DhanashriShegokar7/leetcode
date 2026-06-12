@@ -1,30 +1,24 @@
 class Solution {
+
     public List<Integer> selfDividingNumbers(int left, int right) {
 
         List<Integer> ans = new ArrayList<>();
 
-        // 1 to 9 are always self-dividing
-        while (left <= right && left < 10) {
-            ans.add(left);
-            left++;
-        }
-
-        // Check remaining numbers
         for (int i = left; i <= right; i++) {
 
-            int num = i;
+            int temp = i;
             boolean flag = true;
 
-            while (num > 0) {
+            while (temp > 0) {
 
-                int divisor = num % 10;
+                int digit = temp % 10;
 
-                if (divisor == 0 || i % divisor != 0) {
+                if (digit == 0 || i % digit != 0) {
                     flag = false;
                     break;
                 }
 
-                num = num / 10;
+                temp = temp / 10;
             }
 
             if (flag == true) {
