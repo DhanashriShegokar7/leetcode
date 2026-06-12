@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DhanashriShegokar7/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DhanashriShegokar7/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhanashriShegokar7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhanashriShegokar7/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DhanashriShegokar7/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
