@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DhanashriShegokar7/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DhanashriShegokar7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DhanashriShegokar7/leetcode/tree/master/0342-power-of-four) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DhanashriShegokar7/leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
