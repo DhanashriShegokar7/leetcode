@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhanashriShegokar7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2574-left-and-right-sum-differences](https://github.com/DhanashriShegokar7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/DhanashriShegokar7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
