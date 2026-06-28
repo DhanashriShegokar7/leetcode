@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/DhanashriShegokar7/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/DhanashriShegokar7/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DhanashriShegokar7/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhanashriShegokar7/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/DhanashriShegokar7/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhanashriShegokar7/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/DhanashriShegokar7/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/DhanashriShegokar7/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DhanashriShegokar7/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DhanashriShegokar7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0088-merge-sorted-array) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/DhanashriShegokar7/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DhanashriShegokar7/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
