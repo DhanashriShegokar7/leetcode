@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DhanashriShegokar7/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/DhanashriShegokar7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DhanashriShegokar7/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DhanashriShegokar7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/DhanashriShegokar7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
