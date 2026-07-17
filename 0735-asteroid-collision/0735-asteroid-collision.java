@@ -1,40 +1,39 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
+        int n = asteroids.length;
+        List<Integer> st = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
 
-        Stack<Integer> stack = new Stack<>();
-
-        for (int i = 0; i < asteroids.length; i++) {
-
-            int asteroid = asteroids[i];
-            boolean destroyed = false;
-
-            while (!stack.isEmpty() && asteroid < 0 && stack.peek() > 0) {
-
-                if (stack.peek() < -asteroid) {
-                    stack.pop();
-                }
-                else if (stack.peek() == -asteroid) {
-                    stack.pop();
-                    destroyed = true;
-                    break;
-                }
-                else {
-                    destroyed = true;
-                    break;
-                }
+            // If asteroid is moving right, push it to the stack
+            if (asteroids[i] > 0) {
+                st.add(asteroids[i]);
             }
 
-            if (!destroyed) {
-                stack.push(asteroid);
+            // If asteroid is moving left, handle possible collisions
+            else {
+                // Destroy all smaller right-moving asteroids
+                while (!st.isEmpty() && st.get(st.size() - 1) > 0 &&
+                       st.get(st.size() - 1) < Math.abs(asteroids[i])) {
+                    st.remove(st.size() - 1);
+                }
+
+                // Destroy both if sizes are equal
+                if (!st.isEmpty() && st.get(st.size() - 1) == Math.abs(asteroids[i])) {
+                    st.remove(st.size() - 1);
+                }
+
+                // If top of stack is a left-moving or no asteroid, add this one
+                else if (st.isEmpty() || st.get(st.size() - 1) < 0) {
+                    st.add(asteroids[i]);
+                }
             }
         }
 
-        int[] ans = new int[stack.size()];
-
-        for (int i = stack.size() - 1; i >= 0; i--) {
-            ans[i] = stack.pop();
+        // Convert the list to an array
+        int[] result = new int[st.size()];
+        for (int i = 0; i < st.size(); i++) {
+            result[i] = st.get(i);
         }
-
-        return ans;
+        return result;
     }
 }
