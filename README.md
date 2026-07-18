@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhanashriShegokar7/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/DhanashriShegokar7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/DhanashriShegokar7/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/DhanashriShegokar7/leetcode/tree/master/0735-asteroid-collision) |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DhanashriShegokar7/leetcode/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DhanashriShegokar7/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DhanashriShegokar7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
