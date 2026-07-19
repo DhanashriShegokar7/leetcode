@@ -3,8 +3,8 @@ class Solution {
         int[] freq = new int[26];
         Queue<Integer> q = new LinkedList<>();
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            freq[ch - 'a']++;
+            //char ch = s.charAt(i);
+            freq[s.charAt(i) - 'a']++;
             q.add(i);   // index store करतो
             while (!q.isEmpty() && freq[s.charAt(q.peek()) - 'a'] > 1) {
                 q.remove();
