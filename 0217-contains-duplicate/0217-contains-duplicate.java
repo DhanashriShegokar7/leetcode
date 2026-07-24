@@ -1,10 +1,10 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        TreeSet<Integer> ts = new TreeSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for(int i = 0; i < nums.length; i++) {
-            ts.add(nums[i]);
+            set.add(nums[i]);
         } 
-        if(ts.size() < nums.length) {
+        if(set.size() < nums.length) {
             return true;
         }
         return false;
