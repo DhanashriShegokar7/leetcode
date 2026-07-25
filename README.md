@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DhanashriShegokar7/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/DhanashriShegokar7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/DhanashriShegokar7/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DhanashriShegokar7/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DhanashriShegokar7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DhanashriShegokar7/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhanashriShegokar7/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DhanashriShegokar7/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhanashriShegokar7/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DhanashriShegokar7/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhanashriShegokar7/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DhanashriShegokar7/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DhanashriShegokar7/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DhanashriShegokar7/leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
