@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DhanashriShegokar7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DhanashriShegokar7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/DhanashriShegokar7/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0796-rotate-string) |
 | [3813-vowel-consonant-score](https://github.com/DhanashriShegokar7/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Array
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DhanashriShegokar7/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
