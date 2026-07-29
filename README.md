@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DhanashriShegokar7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/DhanashriShegokar7/leetcode/tree/master/1002-find-common-characters) |
 | [3813-vowel-consonant-score](https://github.com/DhanashriShegokar7/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/DhanashriShegokar7/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/DhanashriShegokar7/leetcode/tree/master/0735-asteroid-collision) |
+| [1002-find-common-characters](https://github.com/DhanashriShegokar7/leetcode/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhanashriShegokar7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/DhanashriShegokar7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DhanashriShegokar7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/DhanashriShegokar7/leetcode/tree/master/1002-find-common-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
