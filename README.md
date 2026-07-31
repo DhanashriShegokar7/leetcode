@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DhanashriShegokar7/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/DhanashriShegokar7/leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/DhanashriShegokar7/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/DhanashriShegokar7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DhanashriShegokar7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/DhanashriShegokar7/leetcode/tree/master/0709-to-lower-case) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DhanashriShegokar7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/DhanashriShegokar7/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhanashriShegokar7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/DhanashriShegokar7/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/DhanashriShegokar7/leetcode/tree/master/0735-asteroid-collision) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DhanashriShegokar7/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DhanashriShegokar7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DhanashriShegokar7/leetcode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/DhanashriShegokar7/leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/DhanashriShegokar7/leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DhanashriShegokar7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/DhanashriShegokar7/leetcode/tree/master/1002-find-common-characters) |
