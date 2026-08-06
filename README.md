@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhanashriShegokar7/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DhanashriShegokar7/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/DhanashriShegokar7/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhanashriShegokar7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhanashriShegokar7/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/DhanashriShegokar7/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhanashriShegokar7/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DhanashriShegokar7/leetcode/tree/master/0202-happy-number) |
